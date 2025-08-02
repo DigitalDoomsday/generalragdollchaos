@@ -1,3 +1,4 @@
+local script = game:GetService("Players").LocalPlayer.PlayerGui.RagdollLocalGui.gui.RagdollLocalScript
 local v_u_1 = Random.new()
 local v_u_2 = game:GetService("RunService").Heartbeat
 local v_u_3 = game:GetService("TweenService")
